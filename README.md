@@ -37,6 +37,4 @@ This Weather App allows users to check the weather conditions of a specified cit
 4. Replace the API key in the JavaScript code (if required).
 5. Open the `index.html` file in a browser to use the app.
 
-## License
-This project is open-source and available for modification and distribution.
 
